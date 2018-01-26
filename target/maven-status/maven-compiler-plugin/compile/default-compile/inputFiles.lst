@@ -1,0 +1,17 @@
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/dao/UserDao.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/dao/UserDaoImpl.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/model/UserProfile.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/dao/AbstractDao.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/controller/AppController.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/model/User.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/service/UserService.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/service/UserProfileServiceImpl.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/model/UserProfileType.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/configuration/AppInitializer.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/service/UserServiceImpl.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/configuration/HibernateConfiguration.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/dao/UserProfileDaoImpl.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/dao/UserProfileDao.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/service/UserProfileService.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/converter/RoleToUserProfileConverter.java
+/home/utit/Desktop/plusplusc/java/SpringMVCHibernateManyToManyCRUDExample/src/main/java/com/websystique/springmvc/configuration/AppConfig.java
